@@ -5,8 +5,11 @@ body {
 
 h1 {
   color: red;
+  text-align: center;
+  text-shadow: 5px 3px black:
 }
 
 p {
   color: blue;
+  text-shadow: 3px 2px black;
   }
