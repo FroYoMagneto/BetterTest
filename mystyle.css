@@ -6,7 +6,11 @@ body {
 h1 {
   color: red;
   text-align: center;
-  text-shadow: 5px 3px black;
+}
+
+h2 {
+  color: red;
+  text-align: center;
 }
 
 p {
